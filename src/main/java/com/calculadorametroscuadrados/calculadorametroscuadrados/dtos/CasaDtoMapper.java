@@ -16,6 +16,6 @@ public class CasaDtoMapper
             habitaciones.add(HabitacionDtoMapper.mapToHabitacion(h));
         }
 
-        return new Casa(casa.getNombre(), casa.getDireccion(), habitaciones);
+        return new Casa(casa.getNombre(), casa.getDireccion(), habitaciones, casa.getLocation());
     }
 }

@@ -12,4 +12,5 @@ public class CasaDto
     private String nombre;
     private String direccion;
     private ArrayList<HabitacionDto> habitaciones;
+    private String location;
 }

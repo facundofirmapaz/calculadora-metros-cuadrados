@@ -1,0 +1,18 @@
+[
+    {
+        "location": "Palermo",
+        "price": 2000
+    },
+    {
+        "location": "Belgrano",
+        "price": 1200
+    },
+    {
+        "location": "Recoleta",
+        "price": 2500
+    },
+    {
+        "location": "Puerto Madero",
+        "price": 3000
+    }
+]
